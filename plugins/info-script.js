@@ -1,15 +1,9 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `Bot ini menggunakan script
+let info = `Bot ini ga make script
 
-Original Base by Nurutomo:
-https://github.com/nurutomo/wabot-aq
-
-Base KannaChan: -
-
-Recode By Zukashika:
-https://youtu.be/4w829z0f8lQ`
+🗿👍`
 
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
