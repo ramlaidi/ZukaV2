@@ -42,23 +42,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/'
+global.sig = 'https://instagram.com/sampgta'
 global.sgh = 'https://github.com/ramlaidi'
 global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSX'
-global.sdc = 'https://t.me/'
+global.sdc = 'https://t.me/titid'
 global.snh = 'wa.me/6289691183687'
 
 /*============== PAYMENT ==============*/
 global.pdana = '089691183687'
-global.povo = 'GaAda'
-global.pgopay = 'GaAda'
+global.povo = '09999999999'
+global.pgopay = '099999999999'
 global.ppulsa = '089691183687'
 global.ppulsa2 = '089691183687'
 global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '+380 68 021 9331'
-global.nomorown = '+856 20 52 906 199'
+global.nomorown = '8562052906199'
 global.namebot = 'San-MD'
 global.nameown = 'IRsanGzⒸ︎'
 
@@ -179,8 +179,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.stickauth = ``
+global.stickpack = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ny'
+global.stickauth = `y`
 
 global.multiplier = 38 // The higher, The harder levelup
 
